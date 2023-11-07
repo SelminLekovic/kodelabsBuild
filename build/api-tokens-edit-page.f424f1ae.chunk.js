@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkodelabs_backend=self.webpackChunkkodelabs_backend||[]).push([[92],{50955:(l,t,e)=>{e.r(t),e.d(t,{default:()=>P});var s=e(27279),E=e(2309),_=e(49402),n=e(36364),a=e(92458);const P=()=>{const d=(0,_.v9)(n._);return s.createElement(E.O4,{permissions:d.settings["api-tokens"].read},s.createElement(a.Z,null))}}}]);
